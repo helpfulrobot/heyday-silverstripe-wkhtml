@@ -17,7 +17,7 @@ class RandomFileTest extends \PHPUnit_Framework_TestCase
      */
     protected function setUp()
     {
-//        $this->object = new RandomFile;
+        //        $this->object = new RandomFile;
     }
 
     /**

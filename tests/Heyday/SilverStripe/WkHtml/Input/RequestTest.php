@@ -102,5 +102,3 @@ class RequestTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals('test', $this->object->process());
     }
 }
-
-

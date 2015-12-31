@@ -17,7 +17,7 @@ class HTTPResponseTest extends \PHPUnit_Framework_TestCase
      */
     protected function setUp()
     {
-//        $this->object = new HTTPResponse;
+        //        $this->object = new HTTPResponse;
     }
 
     /**

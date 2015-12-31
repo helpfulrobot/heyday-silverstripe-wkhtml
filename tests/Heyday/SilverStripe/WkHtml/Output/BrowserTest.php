@@ -17,7 +17,7 @@ class BrowserTest extends \PHPUnit_Framework_TestCase
      */
     protected function setUp()
     {
-//        $this->object = new Browser;
+        //        $this->object = new Browser;
     }
 
     /**
